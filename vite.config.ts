@@ -25,7 +25,7 @@ export default defineConfig({
   // - If repo is "my-site" → use: base: '/my-site/'
   //
   // The base MUST match your repo name exactly (case-sensitive)
-  base: '/', // ← CHANGE THIS to match YOUR GitHub repo name!
+  base: '/portfolio/', // ← CHANGE THIS to match YOUR GitHub repo name!
 
   plugins: [
     figmaAssetResolver(),
